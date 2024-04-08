@@ -5,8 +5,6 @@
   
 <p> Sou um estudante de Engenharia de Computação descobrindo as belezas ocultas na programação
 
-- 🌱 Estou para iniciar estudos em **PhP**
-
 - 📫 Entre em contato pelo email **engcomp.lucasedu@gmail.com**
 <img align="right" alt="Coding" width="600" src="https://ik.imagekit.io/perna1910/output-onlinegiftools%20(2).gif?updatedAt=1710370274397">
 
