@@ -3,7 +3,7 @@
 
 <h2 align="center">Sobre mim</h2>
   
-<p> Esse repositório contém apenas os projetos de cunho pessoal. Para ver os relacionados à faculdade acesse esse [repositório](https://github.com/ProjetosAulaUFSC)
+<p> Esse repositório contém apenas os projetos de cunho pessoal. Para ver os relacionados à faculdade acesse esse repositório: https://github.com/ProjetosAulaUFSC
 
 - 📫 Entre em contato pelo email **engcomp.lucasedu@gmail.com**
 <img align="right" alt="Coding" width="600" src="https://ik.imagekit.io/perna1910/output-onlinegiftools%20(2).gif?updatedAt=1710370274397">
